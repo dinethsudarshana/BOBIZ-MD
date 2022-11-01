@@ -26,12 +26,12 @@
       },
      "URL_2NAME": {
             "description": "",
-            "value": "✨Star on Github سكريبت البوت✨" ,
+            "value": "♦GITHUB♦" ,
             "required": true
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/bobizbotmd/BOBIZ-MD" ,
+            "value": "https:/https://github.com/dinethsudarshana" ,
             "required": true
       },
       
@@ -42,18 +42,18 @@
       },
       "ALIVE_LOGO": {
             "description": "add direct image url",
-            "value": "https://telegra.ph/file/201b5c02be1e336a29c60.jpg" ,
+            "value": "https://i.ibb.co/DMnvQ0v/20220912-090038.jpg" ,
             "required": true
       },
      
        "SONG_DOWN": {
             "description": "song downloading text",
-            "value": "*📥جاري تحميل الأغنية...*" ,
+            "value": "*📥Downloading your song...*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "song uploading text",
-            "value": "*📤جاري ارسال الأغنية او الموسيقى...*" ,
+            "value": "*📤Uploading your song...*" ,
             "required": true
       },
           "VIDEO_DOWN": {
@@ -63,22 +63,22 @@
       },
           "VIDEO_UP": {
             "description": "video uploading text",
-            "value": "*📤جاري ارسال الفيديو...*" ,
+            "value": "*📤Uploading your video...*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "file downloading text",
-            "value": "*📥جاري تحميل الملف...*" ,
+            "value": "*📥Downloading your file...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "file uploading text",
-            "value": "*📤جاري ارسال الملف ...*" ,
+            "value": "*📤Uploading your file...*" ,
             "required": true
       },
           "STIC_WM": {
-            "description": "حقوق الملصق",
-            "value": "BOBIZ-MD" ,
+            "description": "sticker pack",
+            "value": "BLACK PANTHER" ,
             "required": true
       }
          
