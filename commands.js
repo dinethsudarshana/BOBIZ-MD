@@ -16,7 +16,7 @@ const { sms } = require('./lib/message');
 const { imageToWebp, videoToWebp, writeExif } = require('./lib/stic')
 const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep } = require('./lib/functions')
 const fs = require('fs');
-const ownerNumber = ['94701629707']
+const ownerNumber = ['94769983151]
 const prefix = '.'
 const axios = require('axios');
 const { yt720 ,  yt480 ,  yt360 } = require('./lib/ytmp4');
@@ -41,7 +41,7 @@ async function ytinfo(name) {
         let views = arama[0].views;
         let author = arama[0].author.name;
         let url = arama[0].url
-        let result = { msg : '╔══[🐶𝙱𝙾𝙱𝙸𝚉 𝙱𝙾𝚃🐕]══╗\n╠  *📥YT DOWNLOADER تحميل الفيديوات من اليوتوب📤*  ╣\n╚═════════════╝\n\n║📽️ɴᴀᴍᴇ: ' + title2 + '\n\n║👁️ᴠɪᴇᴡs: ' + views + '\n\n║📹 ᴄʜᴀɴɴᴇʟ: ' + author + '\n\n║🖇️ᴜʀʟ: ' + url + '\n\n╚═══════════◈' , 
+        let result = { msg : '╔══[🐶ʙʟᴀᴄᴋ ᴘᴀɴᴛʜᴇʀ ᴍᴅ🐕]══╗\n╠  *📥YT DOWNLOADER تحميل الفيد📤*  ╣\n╚═════════════╝\n\n║📽️ɴᴀᴍᴇ: ' + title2 + '\n\n║👁️ᴠɪᴇᴡs: ' + views + '\n\n║📹 ᴄʜᴀɴɴᴇʟ: ' + author + '\n\n║🖇️ᴜʀʟ: ' + url + '\n\n╚═══════════◈' , 
                       thumbnail : thumbnail ,
                       yuturl: url }
         return result
