@@ -12,14 +12,15 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     SESSION: process.env.BOBIZ_SESSION === undefined ? '' : process.env.BOBIZ_SESSION,
-    URL_1NAME: process.env.URL_1NAME === undefined ? '🎃Follow me on Instagram🎃' : process.env.URL_1NAME,
-    URL_1LINK: process.env.URL_1LINK === undefined ? 'http://instagram.com/noureddine_ouafy' : process.env.URL_1LINK,
-    URL_2NAME: process.env.URL_2NAME === undefined ? '✨Star on Github✨' : process.env.URL_2NAME,
-    URL_2LINK: process.env.URL_2LINK === undefined ? 'https://github.com/sanuwaofficial' : process.env.URL_2LINK,
-    FOOTER: process.env.FOOTER === undefined ? 'BOBIZBOT-MD  instagram.com/noureddine_ouafy تابعني على الانستغرام ' : process.env.FOOTER,
-    CAPTION: process.env.CAPTION === undefined ? '🐶 𝙱𝙾𝙱𝙸𝚉 𝙱𝙾𝚃 𝙼𝙳 https://www.instagram.com/noureddine_ouafy  🐕' : process.env.CAPTION,
+    URL_1NAME: process.env.URL_1NAME === undefined ? '♦WHATSAPP♦' : process.env.URL_1NAME,
+    URL_1LINK: process.env.URL_1LINK === undefined ? 'http://wa.me/+94769983151' : process.env.URL_1LINK,
+    URL_2NAME: process.env.URL_2NAME === undefined ? '♦GITHUB♦' : process.env.URL_2NAME,
+    URL_2LINK: process.env.URL_2LINK === undefined ? 'https:/https://github.com/dinethsudarshana' : process.env.URL_2LINK,
+    FOOTER: process.env.FOOTER === undefined ? 'BLACK PANTHER-MD ' : process.env.FOOTER,
+    CAPTION: process.env.CAPTION === undefined ? '🐺BLACK PANTHER-MD🐺' : process.env.CAPTION,
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
-    ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://telegra.ph/file/201b5c02be1e336a29c60.jpg' : process.env.ALIVE_LOGO,
+    ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://i.ibb.co/DMnvQ0v/20220912-090038.jpg
+' : process.env.ALIVE_LOGO,
     SONG_DOWN: process.env.SONG_DOWN === undefined ? '*📥Downloading your song...*' : process.env.SONG_DOWN,
     SONG_UP: process.env.SONG_UP === undefined ? '*📤Uploading your song...*' : process.env.SONG_UP,
     VIDEO_DOWN: process.env.VIDEO_DOWN === undefined ? '*📥Downloading your video...*' : process.env.VIDEO_DOWN,
