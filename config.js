@@ -28,4 +28,6 @@ module.exports = {
     FILE_DOWN: process.env.FILE_DOWN === undefined ? '*📥Downloading your file...*' : process.env.FILE_DOWN,
     FILE_UP: process.env.FILE_UP === undefined ? '*📤Uploading your file...*' : process.env.FILE_UP,
     STIC_WM:process.env.STIC_WM === undefined ? 'BOBIZ-MD' : process.env.STIC_WM,
+      OWNER_NAME: process.env.OWNER_NAME || "DINETH SUDARSHNA ",
+       BOT_NAME: process.env.BOT_NAME || "BLACK PANTHER",
 };
