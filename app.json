@@ -25,11 +25,13 @@
             "required": true
       },
      "URL_2NAME": {
-            "description": "
+            "description": "",
+            "value": "✨Star on Github سكريبت البوت✨" ,
             "required": true
       },
        "URL_2LINK": {
-            "description": ""
+            "description": "",
+            "value": "https://github.com/bobizbotmd/BOBIZ-MD" ,
             "required": true
       },
       
@@ -40,7 +42,7 @@
       },
       "ALIVE_LOGO": {
             "description": "add direct image url",
-            "value": "https://i.ibb.co/DMnvQ0v/20220912-090038.jpg" ,
+            "value": "https://telegra.ph/file/201b5c02be1e336a29c60.jpg" ,
             "required": true
       },
      
@@ -56,27 +58,27 @@
       },
           "VIDEO_DOWN": {
             "description": "video downloading text",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*📥جاري تحميل الفيديو...*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "video uploading text",
-            "value": "*📤Uploading your video...* ,
+            "value": "*📤جاري ارسال الفيديو...*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "file downloading text",
-            "value": "*📥Downloading your file ...*" ,
+            "value": "*📥جاري تحميل الملف...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "file uploading text",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*📤جاري ارسال الملف ...*" ,
             "required": true
       },
           "STIC_WM": {
             "description": "حقوق الملصق",
-            "value": "BLACK PANTHER MD" ,
+            "value": "BOBIZ-MD" ,
             "required": true
       }
          
