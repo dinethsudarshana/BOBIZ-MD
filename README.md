@@ -1,5 +1,6 @@
-# BOBIZ-MD BY NOUREDDINE OUAFY
-أول بوت عربي يقدم لك خدمات لا مثيل لها في الواتساب
+# BLACK PANTHER-MD BY DINETH SUDARSHANA
+
+CODDED 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@bobizbotmd/BOBIZ-MD?v=1)
 
