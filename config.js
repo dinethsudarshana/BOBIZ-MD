@@ -11,7 +11,7 @@ DATABASE_URL = process.env.DATABASE_URL === undefined ? './tmp' : process.env.DA
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 
 module.exports = {
-    SESSION: process.env.BOBIZ_SESSION === undefined ? '' : process.env.BOBIZ_SESSION,
+    SESSION: process.env.BOBIZ_SESSION === undefined ? '' : process.env.BLACK PANTHER_SESSION,
     URL_1NAME: process.env.URL_1NAME === undefined ? '♦WHATSAPP♦' : process.env.URL_1NAME,
     URL_1LINK: process.env.URL_1LINK === undefined ? 'http://wa.me/+94769983151' : process.env.URL_1LINK,
     URL_2NAME: process.env.URL_2NAME === undefined ? '♦GITHUB♦' : process.env.URL_2NAME,
