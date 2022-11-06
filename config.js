@@ -30,4 +30,6 @@ module.exports = {
     STIC_WM:process.env.STIC_WM === undefined ? 'BOBIZ-MD' : process.env.STIC_WM,
       OWNER_NAME: process.env.OWNER_NAME || "DINETH SUDARSHNA ",
        BOT_NAME: process.env.BOT_NAME || "BLACK PANTHER",
+       SESSION_ID:process.env.SESSION_ID || "cWNLU0R_XASENA_VVkU=", 
 };
+
